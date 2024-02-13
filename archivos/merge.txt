@@ -1,0 +1,1 @@
+Porque la carpeta ya no esta vacia y ahora si lo identifica como un cambio, y entonces permite hacer commit
